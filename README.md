@@ -9,6 +9,6 @@ Visualiztion:
 
 To do:
 
-* Add lemmatization
+* Add lemmatization - won't do this because of small number of records and words
 
 * Add a double bar chart with both flagged and not flagged count
