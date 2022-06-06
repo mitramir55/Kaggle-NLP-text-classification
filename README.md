@@ -10,3 +10,5 @@ Visualiztion:
 To do:
 
 * Add lemmatization
+
+* Add a double bar chart with both flagged and not flagged count
