@@ -3,6 +3,7 @@
         "dataframe",
         "lemmatization",
         "sklearn",
+        "tensorflow",
         "vectorizer"
     ]
 }
