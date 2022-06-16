@@ -3,6 +3,7 @@
 Objective:
 
 Review Methods for text classification and understand the dataset.
+The transfer learning in the notebook Deep Learning section is run on Colab.
 
 Visualiztion:
 - Frequent words in flagged records.
